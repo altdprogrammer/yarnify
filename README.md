@@ -1,0 +1,2 @@
+# Yarnify Website
+Static website
